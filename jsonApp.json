@@ -1,0 +1,9 @@
+{
+	"update": {
+		"verCode": "1.1",
+		"verNome": "update de teste",
+		"appUrl": "http://192.168.0.104/apiUpdate/appTeste.apk",
+		"notas": "bd add",
+		"time": "11:00"
+	}
+}
